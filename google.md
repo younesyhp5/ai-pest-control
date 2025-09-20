@@ -24,6 +24,15 @@ document.querySelectorAll('button[aria-label="Ask Gemini"]').forEach(e => e.pare
 
 ## Drive
 
+### General settings
+
+Under settings https://drive.google.com/drive/settings
+
+* Privacy: turn off “smart workspace settings”
+* Manage apps: turn off Gemini
+
+This is a good place to check that you turn off various data collection and other nonsense features.
+
 ### "Ask Gemini" nag
 
 The JS snipped for the other "Ask Gemini" nag feature actually removes this one too.
