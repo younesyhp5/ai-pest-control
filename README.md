@@ -21,3 +21,7 @@ Currently such solutions are only provided as JS snippets, but I would like to e
 
 Contributions are welcome; to add a new vendor, just copy [the template](template.md) and make a PR.
 All guides are licensed under the Unlicense as described in the [LICENSE](LICENSE).
+
+## Inspiration
+
+![](images/the-problem.png)
