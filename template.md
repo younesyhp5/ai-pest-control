@@ -1,7 +1,7 @@
 [Back to main page](README.md)
 
-# AI Pest Control: <vendor>
+# AI Pest Control: $VENDOR
 
-## <product>
+## $PRODUCT
 
-### <specific feature or UI element>
+### $FEATURE_OR_UI_ELEMENT
