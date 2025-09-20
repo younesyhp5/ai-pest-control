@@ -2,7 +2,8 @@
 
 *How to turn off unwanted, enabled-by-default AI features on various services*
 
-Provides information on where you can go to turn off unwanted features, settings, and UI elements.
+Provides information on where you can go to turn off unwanted features, settings, and UI elements,
+and how to protect your information from being used for AI training.
 
 ## List of guides
 
