@@ -2,6 +2,12 @@
 
 # AI Pest Control: Google products
 
+## Ads
+
+You can turn personalized ads off under https://myadcenter.google.com/.
+
+It's unclear if this affects data collection at all.
+
 ## Search
 
 ### AI summaries
@@ -40,9 +46,11 @@ The JS snipped for the other "Ask Gemini" nag feature actually removes this one 
 This one is particularly nasty because the page “self-heals” during certain user interactions.
 So you will have to run it periodically.
 
-## Youtube Studio
+## Youtube
 
-### Third-party training
+There doesn't seem to be any AI-related settings on Youtube. Personalization/data collection is handled via the Google settings.
+
+### For creators: third-party training
 
 There is an opt-in setting in **Youtube Studio** -> **Settings** -> **Channel** -> **Advanced settings** -> **Third-party training** -> **Allow third-party companies to train AI models using my channel content (off)**.
 
