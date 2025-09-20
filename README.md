@@ -7,6 +7,7 @@ and how to protect your information from being used for AI training.
 
 ## List of guides
 
+* [Amazon](amazon.md): AWS
 * [Atlassian](atlassian.md): Bitbucket, Jira, Confluence
 * [Google](google.md): Search, Drive, Workspaces
 * [LinkedIn](linkedin.md): Website
