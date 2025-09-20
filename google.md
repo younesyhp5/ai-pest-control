@@ -39,3 +39,11 @@ The JS snipped for the other "Ask Gemini" nag feature actually removes this one 
 
 This one is particularly nasty because the page “self-heals” during certain user interactions.
 So you will have to run it periodically.
+
+## Youtube Studio
+
+### Third-party training
+
+There is an opt-in setting in **Youtube Studio** -> **Settings** -> **Channel** -> **Advanced settings** -> **Third-party training** -> **Allow third-party companies to train AI models using my channel content (off)**.
+
+It's not clear how to make sure first-party companies (i.e., Alphabet/Google) from training on your stuff.
