@@ -10,7 +10,9 @@ and how to protect your information from being used for AI training.
 * [Atlassian](atlassian.md): Bitbucket, Jira, Confluence
 * [Google](google.md): Search, Drive, Workspaces
 * [LinkedIn](linkedin.md): Website
+* [Meta](meta.md): Facebook
 * [Microsoft](microsoft.md): GitHub
+* [Snapchat](snapchat.md): Mobile app
 
 ## Future plans
 
