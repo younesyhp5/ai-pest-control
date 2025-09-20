@@ -15,6 +15,8 @@ and how to protect your information from being used for AI training.
 * [Microsoft](microsoft.md): GitHub
 * [Snapchat](snapchat.md): Mobile app
 
+For non-English applications see the [non-english directory](non-english)
+
 ## Future plans
 
 For features that can't be turned off, you can at least remove the UI elements from the page.
