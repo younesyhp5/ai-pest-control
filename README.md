@@ -13,7 +13,8 @@ and how to protect your information from being used for AI training.
 * [Google](google.md): Search, Drive, Workspaces
 * [LinkedIn](linkedin.md): Website
 * [Meta](meta.md): Facebook
-* [Microsoft](microsoft.md): GitHub
+* [Microsoft](microsoft.md): GitHub, Windows, Office
+* [Reddit](reddit.md)
 * [Snapchat](snapchat.md): Mobile app
 
 For non-English applications see the [non-english directory](non-english)
